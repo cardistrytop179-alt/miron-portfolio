@@ -13,6 +13,7 @@
 | Telegram Mini App и бот-портфолио | Telegram Web App связан с серверным API; сервер проверяет подпись Telegram, обрабатывает запросы и хранит данные через Prisma. | [GitHub](https://github.com/cardistrytop179-alt/portfolio-ecosystem) |
 | Showcase Portfolio Bot | Демонстрационный бот с пошаговой формой, сохранением состояния, напоминаниями и данными внешнего API. | [GitHub](https://github.com/cardistrytop179-alt/showcase-bot) |
 | Clearpath Astro Demo | Двуязычная демонстрационная страница на Astro и TypeScript с адаптивным интерфейсом. | [GitHub](https://github.com/cardistrytop179-alt/clearpath-demo) |
+| VS Code UI Click Helper | Windows-скрипт ищет кнопки по образцу изображения и управляет видимым окном VS Code. | [GitHub](https://github.com/cardistrytop179-alt/vscode-ui-clicker) |
 
 ## Клиентские сайты и кейсы
 
@@ -36,4 +37,5 @@
 ## Контакты
 
 Для связи используйте GitHub: [github.com/cardistrytop179-alt](https://github.com/cardistrytop179-alt).
+
 
